@@ -1,0 +1,15 @@
+{
+  "name": "devweb_micro_service",
+  "version": "1.0.0",
+  "description": "Voici une liste des fonctions minimales à implémenter :\r * Upload d'une vidéo, avec titre et une description\r * Ajout d'une section commentaire\r * Système d'authentification basé sur OAuth2 ou Openld Connect\r * Lancement de l'application via Docker-Compose",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bananiaNc/CloneYoutube/settings"
+  },
+  "author": "Emile WAPAE",
+  "license": "ISC"
+}

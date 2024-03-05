@@ -2,15 +2,15 @@
 ## **Clone de youtube**
 
 ## Table des matières
-* [ImplémentationFonctions](### Fonctions minimales à implémenter)
-* [Critèred'évaluations](### Quelques critères d'évaluation)
-* [Technologie](### Quelques technologies pour le développement)
-* [Eclaircissement](### Quelques technologies pour le développement)
-    * [OAuth2](#### C'est quoi **OAuth2**)
-    * [OpenIdConnect](#### C'est quoi **OpenId Connect**)
-    * [DockerCompose](#### C'est quoi **Docker Compose**)
-        * [Docker](#### Pour commencer : **Docker**)
-        * [DockerCompose:C'estquoi?](#### **Docker Compose**)
+* [Implémentation Fonctions](#Fonctions-minimales-à-implémenter)
+* [Critère d'évaluations](#Quelques-critères-d'évaluation)
+* [Technologie](#Quelques-technologies-pour-le-développement)
+* [Eclaircissement](#Quelques-technologies-pour-le-développement)
+    * [OAuth2](#C'est-quoi-**OAuth2**)
+    * [OpenId Connect](#C'est-quoi-**OpenId-Connect**)
+    * [Docker Compose](#C'est-quoi-**Docker-Compose**)
+        * [Docker](#Pour-commencer-:-**Docker**)
+        * [Docker Compose : C'estquoi?](#**Docker-Compose**)
 
 ### Fonctions minimales à implémenter
 Voici une liste des fonctions minimales à implémenter :

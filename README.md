@@ -10,7 +10,7 @@
     * [OpenId Connect](#C'est-quoi-**OpenId-Connect**)
     * [Docker Compose](#C'est-quoi-**Docker-Compose**)
         * [Docker](#Pour-commencer-:-**Docker**)
-        * [Docker Compose : C'estquoi?](#**Docker-Compose**)
+        * [Docker Compose : C'est quoi?](#**Docker-Compose**)
 
 ### Fonctions minimales à implémenter
 Voici une liste des fonctions minimales à implémenter :

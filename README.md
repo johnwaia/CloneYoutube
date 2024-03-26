@@ -1,7 +1,7 @@
 # **PROJET DEVELOPPEMENT WEB & MICRO-SERVICE 2024 :**
-## **Clone de youtube**
+## **Clone de pinterest**
 
-## Table des matières
+## Table des matières 
 * [Implémentation Fonctions](#Fonctions-minimales-à-implémenter)
 * [Critère d'évaluations](#Quelques-critères-d'évaluation)
 * [Technologie](#Quelques-technologies-pour-le-développement)
